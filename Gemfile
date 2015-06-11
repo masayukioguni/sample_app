@@ -62,3 +62,6 @@ group :production do
   gem 'rails_12factor', '0.0.2'
 end
 
+gem 'faker', '1.1.2'
+gem 'bootstrap-will_paginate', '0.0.9'
+
